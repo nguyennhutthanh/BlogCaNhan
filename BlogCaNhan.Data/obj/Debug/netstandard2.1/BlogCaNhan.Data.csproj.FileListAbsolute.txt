@@ -1,0 +1,12 @@
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.deps.json
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.dll
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.Data.pdb
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csprojAssemblyReference.cache
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.AssemblyInfoInputs.cache
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.AssemblyInfo.cs
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.dll
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.pdb
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.dll
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\bin\Debug\netstandard2.1\BlogCaNhan.DTOs.pdb
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csproj.CoreCompileInputs.cache
+D:\blog.com\BlogCaNhan\BlogCaNhan.Data\obj\Debug\netstandard2.1\BlogCaNhan.Data.csproj.CopyComplete
